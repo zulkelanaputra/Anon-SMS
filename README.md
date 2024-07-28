@@ -62,7 +62,7 @@ To Send Messages Anonymously type the following commands in Termux:
 pkg install git
 pkg install python
 git clone https://github.com/zulkelanaputra/Joel-SMS.git
-cd Anon-SMS
+cd Joel-SMS
 bash Run.sh
 ```
 
