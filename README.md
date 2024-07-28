@@ -1,4 +1,4 @@
-<h1 align="center">Anon-SMS v1.4</h1>
+<h1 align="center">Joel-SMS v1.4</h1>
 <p align="center">Anonymous Message Sender for Linux And Termux.</p><br>
 
 ## Updates:
@@ -21,7 +21,7 @@
 - The script requires working network connection to work.
 - No balance will be deducted for using this script to send SMS.
 - Don't put spaces in between phone number (Ex- 99999 99999)
-- Make sure you are using the latest version of Anon-SMS
+- Make sure you are using the latest version of Joel-SMS
 - Make sure you are using Python v3.
 
 Here's how you can check it. Type this command in your terminal.
@@ -32,7 +32,7 @@ If output looks like `Python 3` or above - Congrats, Python 3 is installed prope
 
 - Do not use this to harm others.
 - This script is only for educational purposes or to prank.
-- **None of the developers/contributors are responsible for the misuse of Anon-SMS.**
+- **None of the developers/contributors are responsible for the misuse of Joel-SMS.**
 <br>
 
 ## Features:
@@ -61,7 +61,7 @@ To Send Messages Anonymously type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/zulkelanaputra/Joel-SMS.git
 cd Anon-SMS
 bash Run.sh
 ```
@@ -78,22 +78,22 @@ Commands below provide instructions for Debian-based systems.
 To Send Message Anonymously type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
-cd Anon-SMS
+git clone https://github.com/zulkelanaputra/Joel-SMS.git
+cd Joel-SMS
 sudo bash Run.sh
 ```
 ## CONTRIBUTORS:
 
-- **HACK3RY2J**<br>
-[@] Mail At: HACK3RY2J@gmail.com
+- **zulkelanaputra**<br>
+[@] Mail At: zulkelanaputra@gmail.com
 
 # CONTACT ME:
 
 Feel Free To Open An Issue...
 
 ```
-                 Mail: HACK3RY2J@gmail.com
-      YouTube Channel: https://www.youtube.com/c/PandaHackers
+                 Mail: zulkelanaputra@gmail.com
+      YouTube Channel: https://www.youtube.com/c/zulkelanaputra
 ```
 
 <a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
